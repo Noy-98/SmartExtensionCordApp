@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613860152748",
+    "firebase_url": "https://smartextensioncordproj-default-rtdb.firebaseio.com",
+    "project_id": "smartextensioncordproj",
+    "storage_bucket": "smartextensioncordproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613860152748:android:30daa3121a705545545609",
+        "android_client_info": {
+          "package_name": "com.itech.smartextensioncordapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYL1Zwcnbg2QCzCid5V5J2EiiFWE4Pl-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
